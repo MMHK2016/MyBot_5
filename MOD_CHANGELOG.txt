@@ -1,0 +1,27 @@
+* **V5.3.2.MMHK.v1.2.1**
+ * Improve offline time while training incoporates Full Camp percentage
+ * Update Bot Title
+
+* **V5.3.2.MMHK.v1.2**
+ * Add offline when training - multiple times randomly and options to
+		only sleep if longer than some minutes,
+		disconnected naturally sometimes,
+		max extra offline time, randomly
+ * Improve Train Barrack Mode - don't empty barracks before training
+ * Fix train troop barrack mode (Fixes below - broken by coc update 2016.05.24)
+ * Fix elixir spell brewing
+ * Fix dark spell brewing
+ * Fix train troop custom mode
+ * Fix open/close chat tab and request clan troops
+ * Fix valkyrie training
+ * Fix Donate Clan Troops partial, Giants Golems Wizards Archers Barbarians Wall Breakers Goblins Healers Hogs Witches Dragons
+ * Fix scroll up the clan chat for donation
+ * Update Bot Title
+ * Credit goes to ProMac providing RemainTrainTime listSymbols
+ * Credit goes to ZengZeng providing 2016.05.24 HotFix and ProMac, mikemikemikecoc
+
+* **V5.3.2.MMHK.v1.1**
+ * Improve match found tray tip with profile name
+ * Improve pause/resume tray tip with profile name
+ * Fix condition "Bot running for..." hours been extended by resume btn pressed
+ * Fix condition "Bot running for..." hours been extended by reset stats btn pressed
