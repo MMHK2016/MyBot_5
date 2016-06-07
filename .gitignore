@@ -20,10 +20,10 @@
 [Ll]oots/
 [Aa]llTowns/
 
-# Exclusion MyBot (used for pkg download)
+# Exclusion Curl (used for PushBullet)
 ![Cc]url.exe
 
-# Exclusion Curl (used for PushBullet)
+# Exclusion MyBot (used for pkg download)
 ![Mm]yBot.run.exe
 
 # Exclusion Language .ini's
